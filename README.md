@@ -3,7 +3,9 @@
 > Complete end-to-end AI journey: Machine Learning, Deep Learning, Advanced AI, and Freelance-style projects, organized month-wise.  
 
 ---
+## 📂 Repository Structure
 
+```text
 ## 📂 Table of Contents
 
 - [Month 2 – Regression & Classification](#month-2---regression--classification)  
