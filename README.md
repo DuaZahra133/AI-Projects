@@ -41,4 +41,3 @@ AI-Projects/
 │   ├── 01-Titanic_Survival_Prediction.ipynb
 │   ├── 03_End_to_End_Workflow.ipynb
 │   └── 04_Visualization_Dashboard.ipynb
-└── README.md
