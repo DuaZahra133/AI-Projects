@@ -3,8 +3,6 @@
 > Complete end-to-end AI journey: Machine Learning, Deep Learning, Advanced AI, and Freelance-style projects, organized month-wise.  
 
 ---
-## 📂 Repository Structure
-```text
 
 ## 📂 Table of Contents
 
