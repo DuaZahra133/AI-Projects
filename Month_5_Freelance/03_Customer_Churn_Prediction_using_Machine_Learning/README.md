@@ -60,9 +60,6 @@ Customers were grouped into risk categories based on churn probability:
 - Medium Risk
 - High Risk
 
-### Segmentation Output
-![Risk Segmentation](images/risk_segmentation.png)
-
 ---
 
 ## 💡 Key Business Insights
