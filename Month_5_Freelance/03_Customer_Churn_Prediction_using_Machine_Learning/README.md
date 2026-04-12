@@ -41,7 +41,7 @@ This project follows a complete ML pipeline:
 
 ## 📈 Model Performance
 
-The final model was evaluated using classification metrics and business-focused evaluation.
+ The final model was evaluated using classification metrics and business-focused evaluation.
 ---
 
 ## 🔑 Key Drivers of Churn
