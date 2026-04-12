@@ -42,10 +42,6 @@ This project follows a complete ML pipeline:
 ## 📈 Model Performance
 
 The final model was evaluated using classification metrics and business-focused evaluation.
-
-### Confusion Matrix
-![Confusion Matrix](images/Confusion_matrix.png)
-
 ---
 
 ## 🔑 Key Drivers of Churn
