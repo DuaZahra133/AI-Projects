@@ -1,4 +1,4 @@
-# AI-Projects Portfolio by Dua Zahra
+# AI-Projects by Dua Zahra
 
 > Complete end-to-end AI journey: Machine Learning, Deep Learning, Advanced AI, and Freelance-style projects, organized month-wise.  
 
